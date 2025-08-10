@@ -1,4 +1,2 @@
 # Hello-world
 This repository is for practicing the GitHub Flow.
-readme-edits
-This repository is for practicing the GitHub Flow.
